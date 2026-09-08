@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,CONN-TH_2P-P9.50_HB9500-9.5-2P,1,Feedback CT,C60785
+J2,CONN-TH_2P-P9.50_HB9500-9.5-2P,1,OCD CT,C60785
+TR1,Transformer_Zeming_ZMCT103C,1,Feedback CT,
+TR3,Transformer_Zeming_ZMCT103C,1,OCD CT,
+TR4,Transformer_Zeming_ZMCT103C,1,Primary CT,

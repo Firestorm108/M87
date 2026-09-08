@@ -1,0 +1,30 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+AV1,CONN-TH_AV-5,1,AV-5,C18080
+C1,0603,1,1uF,
+"C10, C12, C8",0603,3,100nF,
+"C11, C14, C16, C2, C6, C9",0603,6,10nF,
+C13,0603,1,22nF,
+C15,0603,1,47nF,
+"C17, C3, C4, C5",0603,4,0.1uF,
+C7,0603,1,10uF,
+"D1, D2, D3",D_SOD-123,3,1N4148W,
+J1,CONN-TH_P10.16_KF135T-10.16-2P,1,9V BATTERY,C475108
+"Q2, Q3",SOT-23,2,BC847,
+"R1, R10, R11, R13, R3",0603,5,1K,
+"R12, R9",0603,2,100,
+R14,0603,1,10K,
+"R15, R16",2512,2,220 1W,
+R2,0603,1,6.8K,
+R4,0603,1,100K,
+"R6, R7",0603,2,2.2K,
+R8,0603,1,22K,
+RV1,Potentiometer_Alps_RK163_Single_Horizontal,1,10K,
+"RV2, RV3, RV4",Potentiometer_Alps_RK163_Single_Horizontal,3,50K,
+RV5,Potentiometer_Alps_RK163_Single_Horizontal,1,5K,
+SW1,PinHeader_1x02_P2.54mm_Vertical,1,BURST,
+SW2,PinHeader_1x02_P2.54mm_Vertical,1,Stable Switch,
+SW3,PinHeader_1x02_P2.54mm_Vertical,1,Burst Switch,
+SW4,PinHeader_1x02_P2.54mm_Vertical,1,Music_Switch,
+U1,SOP-8_L4.9-W3.9-P1.27-LS6.0-BL,1,LM741,C5145278
+"U2, U3, U4, U5",SOIC-8_3.9x4.9mm_P1.27mm,4,NE555D,
+"U6, U7",CONN-TH_HFBR-1521Z,2,HFBR-1521Z,C188712

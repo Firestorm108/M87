@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C10, C11, C12, C13, C14, C15, C16, C17, C18, C2, C3, C4, C5, C6, C7, C8, C9",C_Rect_L29.0mm_W7.6mm_P27.50mm_MKT,18,0.1uF 2kV,
+J1,CONN-TH_P10.16_KF135T-10.16-2P,1,MMC,C475108
+"R1, R10, R11, R12, R13, R14, R15, R16, R17, R18, R2, R3, R4, R5, R6, R7, R8, R9",R_Axial_DIN0414_L11.9mm_D4.5mm_P20.32mm_Horizontal,18,1M 2W,
