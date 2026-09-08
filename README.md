@@ -30,8 +30,9 @@
 <h2>Optical Interrupter</h2>
 <img width="948" height="978" alt="Screenshot 2026-09-07 at 6 35 54 PM" src="https://github.com/user-attachments/assets/75db0752-af8d-4b60-8576-452423d634c2" />
 
-<h2>Multi-Mini Capacitorr</h2>
+<h2>Multi-Mini Capacitor & Current Transformers</h2>
 <img width="1548" height="271" alt="Screenshot 2026-09-07 at 6 37 50 PM" src="https://github.com/user-attachments/assets/1671a579-0f45-461a-a016-99af3e9b20d2" />
+<img width="684" height="587" alt="Screenshot 2026-09-07 at 6 39 29 PM" src="https://github.com/user-attachments/assets/ab4d3afc-62e0-4b9a-9c98-f28a9772e89d" />
 
 # The Bridge
 <h3>This is the main switching part of the coil, if you put aside all the logic, isolation, coils, etc.</h4>
