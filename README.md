@@ -1,2 +1,2 @@
 # M87
-Extreme power DRSSTC, named after the M87 black hole.
+<h3>A dual-resonant solid state Tesla coil, hitting 170kW peaks</h3>
