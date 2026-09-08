@@ -22,6 +22,12 @@
 <h2>Current Transformers</h2>
 <img width="588" height="1013" alt="Screenshot 2026-09-06 at 10 58 16 PM" src="https://github.com/user-attachments/assets/06957a56-98c0-4886-a6f2-5b513a8865ab" />
 
+# Schematics
+<h4>The schematics to each PCB</h4>
+<h2>Universal Driver "M87"</h2>
+<img width="1127" height="1120" alt="Screenshot 2026-09-07 at 6 30 48 PM" src="https://github.com/user-attachments/assets/0a56ae57-2d1f-46be-9221-284cecedd98c" />
+
+
 # The Bridge
 <h3>This is the main switching part of the coil, if you put aside all the logic, isolation, coils, etc.</h4>
 <img width="1183" height="739" alt="Screenshot 2026-09-07 at 6 04 10 PM" src="https://github.com/user-attachments/assets/ba30cf70-7a0c-468b-b890-548c7d53952e" />
