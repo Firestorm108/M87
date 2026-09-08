@@ -5,12 +5,12 @@
 
 # PCBs
 <h4>There are four custom PCBs in this build. </h4>
-# Universal Driver "M87"
+<h2>Universal Driver "M87"</h2>
 <img width="516" height="486" alt="Screenshot 2026-09-06 at 10 52 54 PM" src="https://github.com/user-attachments/assets/2bbe581c-9fb4-4f2e-946c-80427f9f50e3" />
-# Optical Interrupter
+<h2>Optical Interrupter</h2>
 <img width="368" height="594" alt="Screenshot 2026-09-06 at 11 14 16 PM" src="https://github.com/user-attachments/assets/81c6449b-7013-48b2-b239-009fe07e5df4" />
-# Multi-Mini Capacitor
+<H2>Multi-Mini Capacitor</H2>
 <img width="1006" height="457" alt="Screenshot 2026-09-07 at 6 00 40 PM" src="https://github.com/user-attachments/assets/4fd822bc-17aa-4f86-b2a9-087271e01273" />
-# Current Transformers
+<h2>Current Transformers</h2>
 <img width="588" height="1013" alt="Screenshot 2026-09-06 at 10 58 16 PM" src="https://github.com/user-attachments/assets/06957a56-98c0-4886-a6f2-5b513a8865ab" />
 
