@@ -35,21 +35,20 @@ This results in a total capacitance of 5000uF and a voltage rating of 900V, with
 * 0 – 120 VAC through a variac
 * 30A Full Bridge Rectifier
 * 4x 5000uF 450V capacitors in voltage doubling configuration, and in parallel.
-
-* **Primary Coil:**
+  
+## Primary Coil
 * 320 mm diameter
 * 3/8" diameter copper tubing
 * 11 total windings, subject to tuning using a scope.
 
-* **MMC (Multi-Mini Capacitor):**
+## MMC (Multi-Mini Capacitor)
 * 9 strings in parallel of 2 in series 0.1uF 2kV film capacitors.
 * Total Rating: 0.45 µF @ 4000 VDC
 
-* **Secondary Coil:**
+## Secondary Circuit
 * 6.5" diameter x 2' length
 * 2200 turns of 30AWG
-
-* **Topload:** 127 x 620 mm aluminum ducting
+* 127 x 620 mm aluminum ducting topload
 
 ## Parameters
 
