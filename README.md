@@ -27,6 +27,9 @@
 <h2>Universal Driver "M87"</h2>
 <img width="1127" height="1120" alt="Screenshot 2026-09-07 at 6 30 48 PM" src="https://github.com/user-attachments/assets/0a56ae57-2d1f-46be-9221-284cecedd98c" />
 
+<h2>Optical Interrupter</h2>
+<img width="948" height="978" alt="Screenshot 2026-09-07 at 6 35 54 PM" src="https://github.com/user-attachments/assets/75db0752-af8d-4b60-8576-452423d634c2" />
+
 
 # The Bridge
 <h3>This is the main switching part of the coil, if you put aside all the logic, isolation, coils, etc.</h4>
