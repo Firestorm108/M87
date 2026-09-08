@@ -20,3 +20,4 @@
 <h4>Mainly, it uses two SKM300GB IGBT half-bridges and four 5000uF 450V capacitors. 
 These half-bridges are put together to create a full bridge, while the capacitors are both in series and parallel in a voltage doubler configuration.
 This results in a total capacitance of 5000uF and a voltage rating of 900V, with a bus voltage of 340V.</h4>
+
