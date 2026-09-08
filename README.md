@@ -29,3 +29,29 @@
 These half-bridges are put together to create a full bridge, while the capacitors are both in series and parallel in a voltage doubler configuration.
 This results in a total capacitance of 5000uF and a voltage rating of 900V, with a bus voltage of 340V.</h4>
 
+# Specifications
+
+## Power Supply 
+* 0 – 120 VAC through a variac
+* 30A Full Bridge Rectifier
+* 4x 5000uF 450V capacitors in voltage doubling configuration, and in parallel.
+
+* **Primary Coil:**
+* 320 mm diameter
+* 3/8" diameter copper tubing
+* 11 total windings, subject to tuning using a scope.
+
+* **MMC (Multi-Mini Capacitor):**
+* 9 strings in parallel of 2 in series 0.1uF 2kV film capacitors.
+* Total Rating: 0.45 µF @ 4000 VDC
+
+* **Secondary Coil:**
+* 6.5" diameter x 2' length
+* 2200 turns of 30AWG
+
+* **Topload:** 127 x 620 mm aluminum ducting
+
+## Parameters
+
+* **Resonant Frequency:** ~65 – 80 kHz
+* **Input Power:** 1800W at 120 VAC @ 15 A (500 A OCD)
