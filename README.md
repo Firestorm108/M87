@@ -3,6 +3,14 @@
 <img width="859" height="1033" alt="Screenshot 2026-09-07 at 5 58 11 PM" src="https://github.com/user-attachments/assets/6aa76440-cb64-40c3-8c84-8dd448bbca0f" />
 <img width="2160" height="1091" alt="Assembly_2026-Sep-08_12-16-06AM-000_CustomizedView9614355404" src="https://github.com/user-attachments/assets/0cbec0ed-1a0b-4bd1-9eae-d8d42652f97b" />
 
+<h1>High Voltage Safety</h1>
+
+** I do not advise anyone to replicate this and do not take any responsibility if you choose to do so. **
+
+** This is an advanced high voltage project, DO NOT REPLICATE! **
+
+** I am not responsible for any damage caused from irresponsibly playing with high voltage. ** 
+
 # PCBs
 <h4>There are four custom PCBs in this build. </h4>
 <h2>Universal Driver "M87"</h2>
